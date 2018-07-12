@@ -1,0 +1,23 @@
+{
+    "mlab": {
+        "username": "",
+        "password":"",
+        "code": "",
+        "subcode": "",
+        "db_name": ""
+    },
+    "firebase":{
+        "apiKey": "",
+        "authDomain": "",
+        "databaseURL": "",
+        "projectId": "",
+        "storageBucket": "",
+        "messagingSenderId": ""
+    },
+    "mysql":{
+        "host": "",
+        "user": "",
+        "password": "",
+        "database": ""
+    }
+}
